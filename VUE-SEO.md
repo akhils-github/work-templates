@@ -1,6 +1,6 @@
 
-```markdown
-**App.vue**
+```
+## App.vue
 
 ```vue
 <template>
@@ -48,7 +48,7 @@ export default {
 </style>
 ```
 
-**SEO.vue**
+## SEO.vue
 
 ```vue
 <template>
@@ -107,7 +107,7 @@ export default {
 </style>
 ```
 
-**main.js**
+## main.js
 
 ```javascript
 // main.js
