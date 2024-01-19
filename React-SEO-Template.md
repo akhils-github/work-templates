@@ -1,5 +1,6 @@
-```jsx
 # React SEO Component
+
+```jsx
 
 import React from 'react';
 import { Helmet } from 'react-helmet';
